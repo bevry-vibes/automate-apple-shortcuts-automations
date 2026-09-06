@@ -34,5 +34,8 @@ underneath; this process is documented in the upstream repo's
   verification loops, tooling).
 - [README.md](./README.md) — end-user reproduction guide for Hermes +
   GLM 5.3 Flash.
+- [scripts/](./scripts/README.md) — the session's working helper scripts,
+  tiered generic vs Shortcuts-app-specific (our target shortcuts are
+  referenced, not included).
 
 This file is not policy — it is a pointer.

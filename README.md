@@ -19,6 +19,10 @@ with machine-verified state after every step.
 - **DESIGN.md** — the full design learnings, nifties, and innovations
   (coordinate spaces, AX vs SwiftUI control behavior, verification
   loops, OCR tooling, batch orchestration)
+- **[scripts/](scripts/README.md)** — the session's working helper
+  scripts, ready to use: generic macOS GUI automation + Shortcuts-app
+  flows (audited against the live app). Our own target shortcuts are
+  referenced by name but not included.
 - **.plans/** — session plans with verbatim prompt provenance
 - This README — how to reproduce it yourself
 

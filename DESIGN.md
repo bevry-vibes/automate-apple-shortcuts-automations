@@ -175,3 +175,12 @@ These came from the human steering the session and are non-negotiable:
   no-ops today).
 - A `--verify` mode that produces the full 288-slot audit report as its
   output artifact.
+
+## 10. Packaged scripts
+
+The session's working tools now live in [`scripts/`](./scripts/README.md),
+tiered into generic macOS GUI automation (`scripts/generic/`) and
+Shortcuts-app-specific flows (`scripts/shortcuts/`); our own target
+shortcuts are referenced by name but not included. The audit script was
+validated against the live app post-session (288/288 slots, 0 dups, 0
+missing, 0 wrong intervals).
