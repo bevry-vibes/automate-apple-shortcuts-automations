@@ -1,6 +1,6 @@
 # Prompts: original session (2026-08-30) — mass-create Apple Shortcuts automations
 
-Companion to [1788702200000-original-session.md](./1788702200000-original-session.md).
+Companion to [1788090466000-original-session.md](./1788090466000-original-session.md).
 All user prompts verbatim and untruncated, in order. Model-change notices arrived as
 system-injected messages and are preserved inline where they occurred (they document the
 vision hunt). Timestamps are epoch seconds observed in the session store, converted to
