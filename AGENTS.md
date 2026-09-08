@@ -2,7 +2,8 @@
 
 This project conforms to Bevry's skills.
 Reference their remote URLs only — do not pull their contents into this file.
-When a referenced skill applies with this project's tweaks, the local `<name>.md` file at this repo root references the remote URL and lists the tweaks underneath; this process is documented in the upstream repo's [local tweaks pattern](https://github.com/bevry-vibes/skills#local-tweaks-pattern).
+When a referenced skill applies with this project's tweaks, the local `<name>.md` file at this repo root references the remote URL and lists the tweaks underneath;
+this process is documented in the upstream repo's [local tweaks pattern](https://github.com/bevry-vibes/skills#local-tweaks-pattern).
 
 - https://github.com/bevry-vibes/skills/blob/main/policy.md — **applies.**
   Work on this project requires reciprocity compliance, verified via [agent-detect](https://github.com/bevry-vibes/agent-detect) (`agent-detect check-reciprocal`).
@@ -19,5 +20,3 @@ When a referenced skill applies with this project's tweaks, the local `<name>.md
 - [DESIGN.md](./DESIGN.md) — design learnings from the reference session (macOS Shortcuts GUI automation: control-type techniques, verification loops, tooling).
 - [README.md](./README.md) — end-user reproduction guide for Hermes + GLM 5.3 Flash.
 - [scripts/](./scripts/README.md) — the session's working helper scripts, tiered generic vs Shortcuts-app-specific (our target shortcuts are referenced, not included).
-
-This file is not policy — it is a pointer.
