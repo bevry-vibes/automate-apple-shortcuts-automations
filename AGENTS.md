@@ -8,6 +8,7 @@ this process is documented in the upstream repo's [local tweaks pattern](https:/
 - https://github.com/bevry-vibes/skills/blob/main/policy.md — **applies.**
   Work on this project requires reciprocity compliance, verified via [agent-detect](https://github.com/bevry-vibes/agent-detect) (`agent-detect check-reciprocal`).
   The reference session was Hermes Agent + Ollama Cloud + GLM 5.3 Flash (reciprocal).
+- https://github.com/bevry-vibes/skills/blob/main/secrets.md — **applies.** Secrets come only from their documented locations; never probe for them, print them, or commit them
 - https://github.com/bevry-vibes/skills/blob/main/license.md — **applies** (RPL-1.5; LICENSE.md pulled from bevry/base at scaffold time; author is Benjamin Lupton per git config).
 - https://github.com/bevry-vibes/skills/blob/main/conventions.md — **applies** (base config files pulled at scaffold time; splat-naming rule lives there).
 - https://github.com/bevry-vibes/skills/blob/main/commits.md — **applies**.
